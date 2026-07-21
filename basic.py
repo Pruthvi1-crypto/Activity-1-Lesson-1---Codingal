@@ -93,3 +93,10 @@ price= 100
 print(price)
 name= "Isha"
 print(name)
+
+# assignment 3
+check= True
+print("the value of check is",check)
+
+marks_percentage= 100.5
+print("the marks of the computer of auto answering is",marks_percentage)
